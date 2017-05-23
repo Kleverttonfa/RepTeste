@@ -23,7 +23,7 @@ public class gitTriggerHandller {
  
 		System.debug('Lista de git itens: ' + listNewItem2);
 		
-		System.debug('Lista de git itens: ' + listNewItem4);
+		System.debug('Lista de git itens: ' + listNewItem45);
  
 	}
 
